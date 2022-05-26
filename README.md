@@ -75,4 +75,4 @@ Buat file baru dengan nama hapus.php
 
 ![img1!](asset/foto/foto18.png)
 
-![img1!](asset/foto/foto19.png)
+![img1!](asset/foto/foto192.png)
